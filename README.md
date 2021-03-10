@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Konrad Dźbik
+### Hi there :v:, I'm Konrad Dźbik
 #### Junior Frontend Developer
 ![Junior Frontend Developer](https://cdn.pixabay.com/photo/2016/11/18/18/37/programming-1836330_960_720.png)
 
