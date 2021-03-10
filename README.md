@@ -8,10 +8,6 @@ I'm Konrad from Wrocław/Poland and I'm a junior frontend developer also interes
 :computer: HTML CSS JS REACT
 
 
-:mortar_board: ---> I’m currently learning React Native. 
-
-
-
 
 
 
