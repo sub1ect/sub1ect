@@ -5,10 +5,10 @@
 I'm Konrad from Wrocław/Poland and I'm a junior frontend developer also interested in mobile apps development and UI/UX design principles. My goal as a developer is to become a fullstack developer by learning one of the backend languages, meanwhile mastering frontend skills :blush:
 
 ## Skills
-:computer: HTML CSS JS ![image](https://user-images.githubusercontent.com/60157113/110631334-b4096180-81a6-11eb-8c39-8b033a58e2f6.png)
+:computer: HTML CSS JS REACT
 
 
-:mortar_board: I’m currently learning React Native. 
+:mortar_board: ---> I’m currently learning React Native. 
 
 
 
