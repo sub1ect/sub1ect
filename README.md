@@ -5,7 +5,7 @@
 I'm Konrad from Wrocław/Poland and I'm a junior frontend developer also interested in mobile apps development and UI/UX design principles. My goal as a developer is to become a fullstack developer by learning one of the backend languages, meanwhile mastering frontend skills :blush:
 
 ## Tech stack:
-:computer: HTML CSS JS REACT
+:javascript: HTML CSS JS REACT
 
 
 
