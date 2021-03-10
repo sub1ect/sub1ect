@@ -5,12 +5,9 @@
 I'm Konrad from Wrocław/Poland and I'm a junior frontend developer also interested in mobile apps development and UI/UX design principles. My goal as a developer is to become a fullstack developer by learning one of the backend languages, meanwhile mastering frontend skills :blush:
 
 ## Tech stack:
-HTML5 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px">
-
+HTML5 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"><div>
 CSS3 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px">
-
 JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px">
-
 React.js <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px">
 
 
