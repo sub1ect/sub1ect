@@ -6,8 +6,11 @@ I'm Konrad from Wrocław/Poland and I'm a junior frontend developer also interes
 
 ## Tech stack:
 <div>HTML5 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px"></div>
+
 <div>CSS3 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px"></div>
+
 <div>JavaScript <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></div>
+
 <div>React.js <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></div>
 
 
